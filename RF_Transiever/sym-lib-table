@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "END4263D-32M")(type "KiCad")(uri "D:/Transiever/lib/ul_NT2016SA-32M-END4263A/KiCADv6/2026-08-13_17-40-32.kicad_sym")(options "")(descr ""))
+  (lib (name "RFSW6024")(type "KiCad")(uri "D:/Transiever/lib/ul_RFSW6024/KiCADv6/2026-08-13_17-56-55.kicad_sym")(options "")(descr ""))
+  (lib (name "132255-11")(type "KiCad")(uri "D:/Transiever/lib/ul_132255-11/KiCADv6/2026-08-13_19-07-02.kicad_sym")(options "")(descr ""))
+  (lib (name "SMA")(type "KiCad")(uri "D:/Transiever/lib/SMA_CONNECTOR/SMA_CONNECTOR.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_SHIELD")(type "KiCad")(uri "D:/Transiever/lib/BMI-S-209-F/BMI-S-209-F.kicad_sym")(options "")(descr ""))
+  (lib (name "NC7SZ04")(type "KiCad")(uri "D:/Transiever/lib/ul_NC7SZ04M5/KiCADv6/2026-08-17_13-36-16.kicad_sym")(options "")(descr ""))
+  (lib (name "SMA_EDGE")(type "KiCad")(uri "D:/Transiever/lib/ul_CON-SMA-EDGE-SRP/KiCADv6/2026-08-18_17-26-08.kicad_sym")(options "")(descr ""))
+)
