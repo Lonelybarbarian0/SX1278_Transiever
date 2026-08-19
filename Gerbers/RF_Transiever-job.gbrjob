@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.6"
     },
-    "CreationDate": "2026-08-19T00:14:21+05:30"
+    "CreationDate": "2026-08-19T11:20:24+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -132,7 +132,7 @@
     {
       "Type": "Dielectric",
       "Thickness": 0.0994,
-      "Material": "Not specified",
+      "Material": "",
       "DielectricConstant": "1",
       "LossTangent": "0",
       "Name": "F.Cu/In1.Cu (2/2)",
@@ -169,7 +169,7 @@
     {
       "Type": "Dielectric",
       "Thickness": 0.107,
-      "Material": "Not specified",
+      "Material": "",
       "DielectricConstant": "1",
       "LossTangent": "0",
       "Name": "In2.Cu/B.Cu (2/2)",
